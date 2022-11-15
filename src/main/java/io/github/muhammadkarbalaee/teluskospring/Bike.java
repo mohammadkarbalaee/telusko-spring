@@ -1,4 +1,4 @@
-package io;
+package io.github.muhammadkarbalaee.teluskospring;
 
 public class Bike implements Vehicle{
   public void drive() {
